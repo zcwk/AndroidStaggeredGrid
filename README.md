@@ -1,5 +1,5 @@
 
-AndroidStaggeredGrid
+AndroidStaggeredGrid是etsy实现的一个android瀑布流控件，没有继承ListView和Gridview，而是从更深层的AbsListVew着手实现
 =====================
 
 
